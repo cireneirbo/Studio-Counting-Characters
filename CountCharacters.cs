@@ -36,8 +36,6 @@ namespace Studio_Counting_Characters
                 output += letter.Key + ": " + letter.Value + "\n";
             }
 
-            //output = textArray.ToString();
-            //output = text.Length;
             return output;
         }
     }
